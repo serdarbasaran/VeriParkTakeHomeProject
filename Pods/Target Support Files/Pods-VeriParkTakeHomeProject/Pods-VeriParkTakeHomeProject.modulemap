@@ -1,0 +1,6 @@
+framework module Pods_VeriParkTakeHomeProject {
+  umbrella header "Pods-VeriParkTakeHomeProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
